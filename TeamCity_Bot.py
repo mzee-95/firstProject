@@ -7,7 +7,7 @@ bot_token = '928532602:AAEoedP50RLpJ_jQV3xi3PLVi8ibpFCGupE'
 bot = telebot.TeleBot(token=bot_token)
 
 chat_id = -1001265292288
-
+ascvz sdv
 
 if 'Started' in sys.argv:
     message = 'Build Started'
