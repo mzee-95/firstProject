@@ -12,6 +12,7 @@ namespace ConsoleApplication3
         {
             Console.WriteLine("Hello Marno...");
             Console.ReadKey();
+            erg
         }
     }
 }
