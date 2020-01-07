@@ -1,6 +1,7 @@
 import telebot
 import os
 import sys
+import time
 
 #bot_token = '928532602:AAEoedP50RLpJ_jQV3xi3PLVi8ibpFCGupE'
 
@@ -17,4 +18,4 @@ if 'Finished' in sys.argv:
     message = 'Build Successful'
 
 #bot.send_message(chat_id=chat_id, text=message)
-sleep(30)
+time.sleep(30)
