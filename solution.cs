@@ -10,8 +10,8 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-        
-        console.log('system completed');
+            console.log('system completed');
+            console.readkey()
         }
     }
 }
